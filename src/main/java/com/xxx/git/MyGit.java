@@ -5,6 +5,8 @@ public class MyGit {
         System.out.println("hello git2");
         System.out.println("hot-fix---");
 
+        System.out.println("测试测试push功能");
+
     }
 
 }
