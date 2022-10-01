@@ -6,7 +6,7 @@ public class MyGit {
         System.out.println("hot-fix---");
 
         System.out.println("测试测试push功能");
-
+        System.out.println("测试测试pull功能");
     }
 
 }
